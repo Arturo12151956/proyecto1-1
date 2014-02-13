@@ -1,6 +1,6 @@
 // JavaScript Document
 $(document).ready(function(){
-    documment.addeventlisterer("deviceready", function(){
+    document.addeventlisterer("deviceready", function(){
 		
 $('#B1').tap(function(){	
 	navigator.notification.beep(1);
